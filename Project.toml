@@ -1,0 +1,4 @@
+name = "HLS"
+uuid = "7e7cc420-9287-4bf5-abe4-cd3ab1cc2bfc"
+authors = ["Gregory Halverson <gregory.h.halverson@jpl.nasa.gov>"]
+version = "0.1.0"
