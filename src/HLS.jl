@@ -12,10 +12,7 @@ using NaNStatistics
 using GeoFormatTypes
 import GeoDataFrames as GDF
 import ArchGDAL as AG
-
-include("sentinel_tiles.jl")
-
-using .sentinel_tiles: sentinel_tile_dims
+using SentinelTiles
 
 logger = ConsoleLogger()
 global_logger(logger)
